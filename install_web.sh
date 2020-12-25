@@ -1,2 +1,2 @@
-app-get update -y
-app-get install -y nginx
+apt-get update -y
+apt-get install -y nginx
